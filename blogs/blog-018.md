@@ -34,7 +34,7 @@ It’s less glamorous, but it’s real. Engineers can ship it without quitting o
 3. Plan the Wrap Party Before the Curtain Rises
 Every prototype is temporary. Define a "sunset plan" before launch. Say it out loud: "This code is getting deleted."
 
-The real treasure isn’t the code—it’s the knowledge: validated user flows, key performance thresholds, the precise API calls that worked, and actual customer reactions. These artifacts become the building blocks for the real product.
+The real treasure isn’t the code, it’s the knowledge: validated user flows, key performance thresholds, the precise API calls that worked, and actual customer reactions. These artifacts become the building blocks for the real product.
 
 Treat experiments as information assets, not fragile code. Doing so transforms the PM/Engineer relationship from a contentious hand-off to a unified, profitable relay race.
 
