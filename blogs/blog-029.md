@@ -1,7 +1,7 @@
 ---
 title: "Marketers Make Plans, the Market Laughs"
 date: "January 22, 2026"
-tags: ["AI resume optimization", "Product management job search", "Applicant Tracking System (ATS)", "Professional integrity in hiring", "Human-centered resume strategy"]
+tags: ["Product roadmap strategy", "Strategic leadership in product management", "Adapting strategy to market change", "North Star product vision", "Data driven decision making in marketing"]
 image: "/assets/blog-images/NorthStar.png"
 ---
 The lesson of Scylla and Charybdis was never about finding a perfect, obstacle-free route: it was about knowing your direction when the plan collapses in real time. It is the art of the pivot.
