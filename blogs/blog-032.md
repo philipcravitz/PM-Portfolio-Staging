@@ -1,7 +1,7 @@
 ---
 title: "Guerrilla Product Management: The Art of the Resourceful Chef"
 date: "February 2, 2026"
-tags: ["Remote team productivity", "Team bonding strategies", "Distributed team management", "Forming Storming Norming Performing", "Product manager playbook"]
+tags: ["Guerrilla product management", "Product management without budget", "Intrapreneurship in product management", "Building products in large organizations", "Resourceful product manager mindset"]
 image: "/assets/blog-images/StoneSoup.png"
 ---
 Stop waiting for a formal roadmap to solve a human problem. With a little ingenuity and a lot of charm, you can cook up "Stone Soup" from the cracks of any organization.
