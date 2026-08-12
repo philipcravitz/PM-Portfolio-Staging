@@ -1030,7 +1030,7 @@ For those who want to talk to someone, create frictionless entry points. But eve
 \r
 As PMs, one is not just building buttons; it is about building the machine that guides the user through hesitation. We separate the layers, grease the transitions, and ensure that whether the user is clicking or talking, they are moving toward success.\r
 \r
-Because at the end of the day, a low-cost operation is a failure if the customer walks away frustrated. Design is not just for preference and aesthetics; it is to ensure the "best" possible outcome.`},{id:"blog-045",title:"The Job Search Odyssey: 14 Months and Still Searching",date:"August 12, 2026",tags:["Decision making framework","Self service vs high touch","Digital customer journey optimization","Experience design","User experience strategy"],image:"/assets/blog-images/14MonthsOdyssey.png",path:"blogs/blog-045.md",teaser:"Fourteen months into a job search changes the way you look at hiring.\r",body:`Fourteen months into a job search changes the way you look at hiring.\r
+Because at the end of the day, a low-cost operation is a failure if the customer walks away frustrated. Design is not just for preference and aesthetics; it is to ensure the "best" possible outcome.`},{id:"blog-045",title:"The Job Search Odyssey: 14 Months and Still Searching",date:"August 12, 2026",tags:["Product manager job search","Long-term job search","Product management career","Job search rejection","Product manager career growth"],image:"/assets/blog-images/14MonthsOdyssey.png",path:"blogs/blog-045.md",teaser:"Fourteen months into a job search changes the way you look at hiring.\r",body:`Fourteen months into a job search changes the way you look at hiring.\r
 At first, rejection feels personal. Then it becomes statistical.\r
 \r
 I started looking at the hiring process the way I would look at any other product.\r
@@ -1038,8 +1038,8 @@ I started looking at the hiring process the way I would look at any other produc
 - What signals is it using?\r
 - Which users are being filtered out?\r
 - And perhaps most importantly, what false negatives is it creating?\r
-\r
-**The Noise vs. The Craft**\r
+###\r
+### The Noise vs. The Craft\r
 The market today rewards noise. AI is everywhere. Transformation is everywhere. Every résumé is becoming a carefully optimized collection of keywords.\r
 \r
 But there is still a difference between knowing how to describe a capability and actually knowing how to solve a problem.\r
@@ -1055,7 +1055,7 @@ When necessity forces you to bridge a domain gap, you have to relearn how to lea
 \r
 You discover that a seasoned product mind doesn't need five years in a hyper-specific vertical to figure out where the funnel is leaking, why users drop off, or how to build systems that scale. Domain expertise is great to have, but fundamental knowledge that transfers between disciplines can be applied with veteran speed, wisdom, and judgment. These aren't just acts of knowledge. They are acts of character. \r
 \r
-**The Advantage of Being Tested**\r
+### The Advantage of Being Tested\r
 A long search strips away fluff. It leaves behind an operator who is battle-tested, deeply pragmatic, and entirely unbothered by comfort zones.\r
 A candidate who matches 100% of a static checklist may be the safest choice on paper. But the ability to navigate the unknown rarely appears in a checklist.\r
 \r

@@ -1,7 +1,7 @@
 ---
 title: "The Job Search Odyssey: 14 Months and Still Searching"
 date: "August 12, 2026"
-tags: ["Decision making framework", "Self service vs high touch", "Digital customer journey optimization", "Experience design", "User experience strategy"]
+tags: ["Product manager job search", "Long-term job search", "Product management career", "Job search rejection", "Product manager career growth"]
 image: "/assets/blog-images/14MonthsOdyssey.png"
 ---
 Fourteen months into a job search changes the way you look at hiring.
@@ -12,8 +12,8 @@ I started looking at the hiring process the way I would look at any other produc
 - What signals is it using?
 - Which users are being filtered out?
 - And perhaps most importantly, what false negatives is it creating?
-
-**The Noise vs. The Craft**
+###
+### The Noise vs. The Craft
 The market today rewards noise. AI is everywhere. Transformation is everywhere. Every résumé is becoming a carefully optimized collection of keywords.
 
 But there is still a difference between knowing how to describe a capability and actually knowing how to solve a problem.
@@ -29,7 +29,7 @@ When necessity forces you to bridge a domain gap, you have to relearn how to lea
 
 You discover that a seasoned product mind doesn't need five years in a hyper-specific vertical to figure out where the funnel is leaking, why users drop off, or how to build systems that scale. Domain expertise is great to have, but fundamental knowledge that transfers between disciplines can be applied with veteran speed, wisdom, and judgment. These aren't just acts of knowledge. They are acts of character. 
 
-**The Advantage of Being Tested**
+### The Advantage of Being Tested
 A long search strips away fluff. It leaves behind an operator who is battle-tested, deeply pragmatic, and entirely unbothered by comfort zones.
 A candidate who matches 100% of a static checklist may be the safest choice on paper. But the ability to navigate the unknown rarely appears in a checklist.
 
